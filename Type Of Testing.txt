@@ -1,0 +1,11 @@
+Unit Testing 
+=================
+- Unity Testing is the execution of a complete class, routine or small program.
+- Unit Testing is conducted by a single programmer or team of programmers.
+- It is a type of whitebox testing.
+
+Integration Testing
+========================
+- Integration testing is the combined execution of two or more classes, packages, components, or subsystems.
+- Integration testing is conducted by multiple programmers or programming team.
+- It is a type of whitebox testing.
